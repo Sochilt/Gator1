@@ -1,0 +1,8 @@
+Flask
+google-cloud-storage
+pandas
+seaborn
+scipy
+numpy
+matplotlib
+protobuf
